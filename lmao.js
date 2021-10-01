@@ -1,3 +1,3 @@
-const laugh = 'Hahaha lmao'
+const haha = 'lmao'
 
-console.log(laugh)
+console.log(haha)
